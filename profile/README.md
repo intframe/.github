@@ -59,6 +59,7 @@ Extracted from production, each paired with a write-up on the [blog](https://int
 | [`thermal-receipt`](https://github.com/intframe/thermal-receipt) | Scroll-driven thermal receipt printer UI component (React) | [![npm](https://img.shields.io/npm/v/@intframe/thermal-receipt.svg)](https://www.npmjs.com/package/@intframe/thermal-receipt) |
 | [`scroll-rig`](https://github.com/intframe/scroll-rig) | Scroll-driven three.js chapter patterns: camera beats, staggered assembly, adaptive quality governor | |
 | [`scroll-qa`](https://github.com/intframe/scroll-qa) | Playwright toolkit for QA-ing scroll- and animation-heavy sites | |
+| [`usage-recover`](https://github.com/intframe/usage-recover) | Recovers deleted Claude Code and Codex usage history from public leaderboard aggregates | [![npm](https://img.shields.io/npm/v/@intframe/usage-recover.svg)](https://www.npmjs.com/package/@intframe/usage-recover) |
 
 ## How we build
 
