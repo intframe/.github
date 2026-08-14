@@ -48,11 +48,11 @@ Seoul · Nha Trang · Singapore · Falkenstein. Three time zones, every day of t
 
 Extracted from production, each paired with a write-up on the [blog](https://intframe.com/blog):
 
-| Repository | What it is |
-|---|---|
-| [`thermal-receipt`](https://github.com/intframe/thermal-receipt) | Scroll-driven thermal receipt printer UI component (React) |
-| [`scroll-rig`](https://github.com/intframe/scroll-rig) | Scroll-driven three.js chapter patterns — camera beats, staggered assembly, adaptive quality governor |
-| [`scroll-qa`](https://github.com/intframe/scroll-qa) | Playwright toolkit for QA-ing scroll- and animation-heavy sites |
+| Repository | What it is | On npm |
+|---|---|---|
+| [`thermal-receipt`](https://github.com/intframe/thermal-receipt) | Scroll-driven thermal receipt printer UI component (React) | [![npm](https://img.shields.io/npm/v/@intframe/thermal-receipt.svg)](https://www.npmjs.com/package/@intframe/thermal-receipt) |
+| [`scroll-rig`](https://github.com/intframe/scroll-rig) | Scroll-driven three.js chapter patterns — camera beats, staggered assembly, adaptive quality governor | — |
+| [`scroll-qa`](https://github.com/intframe/scroll-qa) | Playwright toolkit for QA-ing scroll- and animation-heavy sites | — |
 
 ## How we build
 
