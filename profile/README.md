@@ -41,8 +41,14 @@ These are production numbers, not marketing copy:
 | Sites served | **45** |
 | Databases | **18** |
 | Rented backbone | **0** — everything runs on our own metal |
+| AI coding spend | **$91.3K** over 104 days — [#32 worldwide](https://www.viberank.app/profile/intframe) |
+| Tokens burned | **70.8B** across Claude Code and Codex CLI |
 
 Seoul · Nha Trang · Singapore · Falkenstein. Three time zones, every day of the year.
+
+Our usage is submitted to [viberank](https://www.viberank.app/profile/intframe), which validates every submission server-side — token math, cost-per-token ratio, date sanity. Nothing here is self-reported.
+
+[![viberank](https://www.viberank.app/api/badge/intframe)](https://www.viberank.app/profile/intframe)
 
 ## Open source
 
