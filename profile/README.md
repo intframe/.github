@@ -61,7 +61,15 @@ Extracted from production, each paired with a write-up on the [blog](https://int
 | [`scroll-qa`](https://github.com/intframe/scroll-qa) | Playwright toolkit for QA-ing scroll- and animation-heavy sites | |
 | [`usage-recover`](https://github.com/intframe/usage-recover) | Recovers deleted Claude Code and Codex usage history from public leaderboard aggregates | [![npm](https://img.shields.io/npm/v/@intframe/usage-recover.svg)](https://www.npmjs.com/package/@intframe/usage-recover) |
 
-## How we build
+## How we ship
+
+An instruction arrives in chat and comes back as a deployment, or as a rollback with an explanation. The loop below is the actual one, not an aspiration.
+
+<p align="center"><img src="assets/operating-loop.svg" alt="An instruction in chat goes to parallel agent sessions on the build host, through a gate that measures which host actually serves each domain, out to the edge host, and into a health daemon that checks every 15 seconds and restores the previous build if a site does not come up, reporting back in the same chat" width="860"></p>
+
+Two of those steps exist because we got them wrong first.
+
+The gate measures which host serves a domain instead of trusting a registry, after a deploy went to a machine that had stopped serving it and the change quietly did nothing. The previous build is preserved before the new one is made, rather than after, which is the only ordering where a rollback still has something to roll back to.
 
 - Every product we design, we also run in production. Hosting, support, upgrades, the 3 a.m. pages.
 - The 3D chapters above are baked from the live fleet topology, not mocked up.
