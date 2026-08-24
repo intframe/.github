@@ -80,3 +80,17 @@ The gate measures which host serves a domain instead of trusting a registry, aft
 We take on a small number of engagements: AI products, intelligent automation, platforms and the business systems behind them.
 
 **[hello@intframe.com](mailto:hello@intframe.com)** · [intframe.com/contact](https://intframe.com/contact)
+
+<!-- oss-agent:contributions:start -->
+
+### Merged upstream
+
+Fixes we shipped into other people's projects, newest stars first.
+
+| Project | Stars | What we fixed |
+|---|---|---|
+| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 54,159 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,133 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,144 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
+
+<!-- oss-agent:contributions:end -->
