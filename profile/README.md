@@ -94,3 +94,13 @@ Fixes we shipped into other people's projects, newest stars first.
 | [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,145 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
 
 <!-- oss-agent:contributions:end -->
+
+<!-- oss-agent:research:start -->
+
+### Research
+
+**The Multilingual Cache Tax** — How token-count cache thresholds create a non-monotonic cost bias across languages in LLM serving  
+Ahron Lee, INTFRAME Research, 2026. CC BY 4.0.  
+[DOI 10.5281/zenodo.22081427](https://doi.org/10.5281/zenodo.22081427) · [Zenodo](https://zenodo.org/record/22081427) · [ORCID](https://orcid.org/0009-0009-7780-086X)
+
+<!-- oss-agent:research:end -->
