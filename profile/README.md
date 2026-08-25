@@ -89,9 +89,10 @@ Fixes we shipped into other people's projects, newest stars first.
 
 | Project | Stars | What we fixed |
 |---|---|---|
-| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 54,192 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
+| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 54,624 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
 | [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,133 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
-| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,145 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,151 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,151 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
 
 <!-- oss-agent:contributions:end -->
 
