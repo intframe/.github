@@ -89,10 +89,10 @@ Fixes we shipped into other people's projects, newest stars first.
 
 | Project | Stars | What we fixed |
 |---|---|---|
-| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 56,663 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
+| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 56,799 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
 | [`nushell/nushell`](https://github.com/nushell/nushell) | 40,354 | [fix(format date): render locales whose format carries %E or %O](https://github.com/nushell/nushell/pull/18918) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,137 | [fix(data): a Date x on a non-datetime axis, and an invalid Date](https://github.com/apexcharts/apexcharts.js/pull/5279) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,137 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,139 | [fix(data): a Date x on a non-datetime axis, and an invalid Date](https://github.com/apexcharts/apexcharts.js/pull/5279) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,139 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
 | [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,185 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
 | [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,185 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
 
