@@ -106,4 +106,8 @@ Fixes we shipped into other people's projects, newest stars first.
 Ahron Lee, INTFRAME Research, 2026. CC BY 4.0.  
 [DOI 10.5281/zenodo.22081427](https://doi.org/10.5281/zenodo.22081427) · [Zenodo](https://zenodo.org/record/22081427) · [ORCID](https://orcid.org/0009-0009-7780-086X)
 
+**An LLM-Associated Register Shift in Korean Journal Abstracts** — A morphology-aware excess-vocabulary study of 316,538 KCI abstracts, 2018-2026, with a Vietnamese comparison  
+Ahron Lee, INTFRAME Research, 2026. CC BY 4.0.  
+[DOI 10.5281/zenodo.22102389](https://doi.org/10.5281/zenodo.22102389) · [Zenodo](https://zenodo.org/records/22102389) · [ORCID](https://orcid.org/0009-0009-7780-086X)
+
 <!-- oss-agent:research:end -->
