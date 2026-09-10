@@ -89,17 +89,18 @@ Fixes we shipped into other people's projects, newest stars first.
 
 | Project | Stars | What we fixed |
 |---|---|---|
-| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) | 67,067 | [refactor(core): share the IDE restart hint between init and update](https://github.com/Fission-AI/OpenSpec/pull/1725) |
-| [`docling-project/docling`](https://github.com/docling-project/docling) | 65,909 | [feat(cli): add latex output format](https://github.com/docling-project/docling/pull/4101) |
-| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 60,424 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
-| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,407 | [fix(format date): resolve `%r` when the locale's am/pm fallback also c](https://github.com/nushell/nushell/pull/18924) |
-| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,407 | [fix(format date): render locales whose format carries %E or %O](https://github.com/nushell/nushell/pull/18918) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,144 | [test(data): cover the null and undefined x the same guard un-breaks](https://github.com/apexcharts/apexcharts.js/pull/5281) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,144 | [fix(config): keep initialConfig unadulterated when series are hidden](https://github.com/apexcharts/apexcharts.js/pull/5280) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,144 | [fix(data): a Date x on a non-datetime axis, and an invalid Date](https://github.com/apexcharts/apexcharts.js/pull/5279) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,144 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
-| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,264 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
-| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,264 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
+| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) | 67,863 | [refactor(core): share the IDE restart hint between init and update](https://github.com/Fission-AI/OpenSpec/pull/1725) |
+| [`docling-project/docling`](https://github.com/docling-project/docling) | 66,242 | [feat(cli): add latex output format](https://github.com/docling-project/docling/pull/4101) |
+| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 63,891 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
+| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,471 | [fix(format date): resolve `%r` when the locale's am/pm fallback also c](https://github.com/nushell/nushell/pull/18924) |
+| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,471 | [fix(format date): render locales whose format carries %E or %O](https://github.com/nushell/nushell/pull/18918) |
+| [`pnpm/pnpm`](https://github.com/pnpm/pnpm) | 36,475 | [fix: warn when package.json declares a workspaces field](https://github.com/pnpm/pnpm/pull/14749) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,152 | [test(data): cover the null and undefined x the same guard un-breaks](https://github.com/apexcharts/apexcharts.js/pull/5281) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,152 | [fix(config): keep initialConfig unadulterated when series are hidden](https://github.com/apexcharts/apexcharts.js/pull/5280) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,152 | [fix(data): a Date x on a non-datetime axis, and an invalid Date](https://github.com/apexcharts/apexcharts.js/pull/5279) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,152 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,384 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,384 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
 
 <!-- oss-agent:contributions:end -->
 
