@@ -89,19 +89,20 @@ Fixes we shipped into other people's projects, newest stars first.
 
 | Project | Stars | What we fixed |
 |---|---|---|
-| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) | 68,351 | [refactor(core): share the IDE restart hint between init and update](https://github.com/Fission-AI/OpenSpec/pull/1725) |
-| [`docling-project/docling`](https://github.com/docling-project/docling) | 66,444 | [feat(cli): add latex output format](https://github.com/docling-project/docling/pull/4101) |
-| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 66,435 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
-| [`slidevjs/slidev`](https://github.com/slidevjs/slidev) | 48,681 | [fix: render iframe layouts at their on-screen resolution](https://github.com/slidevjs/slidev/pull/2728) |
-| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,510 | [fix(format date): resolve `%r` when the locale's am/pm fallback also c](https://github.com/nushell/nushell/pull/18924) |
-| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,510 | [fix(format date): render locales whose format carries %E or %O](https://github.com/nushell/nushell/pull/18918) |
-| [`pnpm/pnpm`](https://github.com/pnpm/pnpm) | 36,530 | [fix: warn when package.json declares a workspaces field](https://github.com/pnpm/pnpm/pull/14749) |
+| [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | 71,940 | [fix(pipeline): route CV output on cv.output_format instead of the PDF ](https://github.com/career-ops-hq/career-ops/pull/3944) |
+| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) | 68,873 | [refactor(core): share the IDE restart hint between init and update](https://github.com/Fission-AI/OpenSpec/pull/1725) |
+| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 67,404 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
+| [`docling-project/docling`](https://github.com/docling-project/docling) | 66,556 | [feat(cli): add latex output format](https://github.com/docling-project/docling/pull/4101) |
+| [`slidevjs/slidev`](https://github.com/slidevjs/slidev) | 48,719 | [fix: render iframe layouts at their on-screen resolution](https://github.com/slidevjs/slidev/pull/2728) |
+| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,519 | [fix(format date): resolve `%r` when the locale's am/pm fallback also c](https://github.com/nushell/nushell/pull/18924) |
+| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,519 | [fix(format date): render locales whose format carries %E or %O](https://github.com/nushell/nushell/pull/18918) |
+| [`pnpm/pnpm`](https://github.com/pnpm/pnpm) | 36,551 | [fix: warn when package.json declares a workspaces field](https://github.com/pnpm/pnpm/pull/14749) |
 | [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,157 | [test(data): cover the null and undefined x the same guard un-breaks](https://github.com/apexcharts/apexcharts.js/pull/5281) |
 | [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,157 | [fix(config): keep initialConfig unadulterated when series are hidden](https://github.com/apexcharts/apexcharts.js/pull/5280) |
 | [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,157 | [fix(data): a Date x on a non-datetime axis, and an invalid Date](https://github.com/apexcharts/apexcharts.js/pull/5279) |
 | [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,157 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
-| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,438 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
-| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,438 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,467 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,467 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
 
 <!-- oss-agent:contributions:end -->
 
